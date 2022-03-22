@@ -1,7 +1,8 @@
+// eslint-disable-next-line no-unused-vars
 import logo from "./logo.svg";
 import "./App.css";
 
-const number = 5555;
+
 const singers = [
   {name: 'Dr. Kamal', job: 'singer'},
   {name: 'Asif Khan', job: 'singer'},
